@@ -9,17 +9,17 @@
 功能实现
 第一步分析.pbxpro
 .pbxproj结构
-PBXObject
-	PBXBuildFile
-	PBXBuildPhase
-		PBXFrameworksBuildPhase
-		PBXResourcesBuildPhase
-		PBXShellScriptBuildPhase
-		PBXSourcesBuildPhase
-	PBXProject
-	PBXGroup
-	PBXNativeTarget
-	PBXVariantGroup
-XCProjectFile
-	XCBuildConfiguration
-	XCConfigurationList
+PBXObject  
+--PBXBuildFile  
+--PBXBuildPhase  
+----PBXFrameworksBuildPhase  
+----PBXResourcesBuildPhase  
+----PBXShellScriptBuildPhase  
+----PBXSourcesBuildPhase  
+--PBXProject  
+--PBXGroup  
+--PBXNativeTarget  
+--PBXVariantGroup  
+XCProjectFile  
+--XCBuildConfiguration  
+--XCConfigurationList
